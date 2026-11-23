@@ -1,5 +1,7 @@
 # 🔍 Guía rápida: Open Code Review (`ocr`) — revisión de código con IA, de Alibaba (ES · PT)
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 Una sola página para poner a trabajar **Open Code Review**: instalación, los modos que de verdad se usan, el mínimo para conectarlo a CI y cómo cambiar de modelo sin tocar el resto.
 
 **Autor:** Guangyi Zhao · Octubre 2026
